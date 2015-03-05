@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "First App",
   "main": "release.js",
+  "dependencies": {
+    "total.js": "^1.7.2"
+  },
   "scripts": {
     "test": "node release.js"
   },
