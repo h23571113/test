@@ -1,0 +1,22 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "First App",
+  "main": "release.js",
+  "scripts": {
+    "test": "node release.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h23571113/test.git"
+  },
+  "keywords": [
+    "First"
+  ],
+  "author": "hamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h23571113/test/issues"
+  },
+  "homepage": "https://github.com/h23571113/test"
+}
