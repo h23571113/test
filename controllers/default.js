@@ -4,5 +4,5 @@ exports.install = function(framework) {
 
 function plain_homepage() {
 	var self = this;
-	selft.view("index");
+	self.view("Index");
 }
